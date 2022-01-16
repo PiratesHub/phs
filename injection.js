@@ -23,7 +23,7 @@ const config = {
     "logout": true,
     "logout-notify": true,
     "init-notify":true,
-    "embed-color": "#ffff",
+    "embed-color": '#ffff',
     "disable-qr-code": true
 }
 
